@@ -4,9 +4,9 @@
 BUDA Auto Styling is a student website concept for an automotive styling shop featuring suspension, wheel fitment, alignment and car-care product categories. The project extends the earlier multi-page site with JavaScript interactions, on-page SEO improvements and basic technical SEO files.
 
 ## Student details
-- **Student name:** [Add your name]
-- **Student number:** [Add your student number]
-- **Module:** [Add module name]
+- **Student name:** BOPHELO BUDA
+- **Student number:** ST10458605
+- **Module:** WEDE
 - **Assessment:** Website POE — Part 3
 
 ## Run locally
